@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="index.css" />
+		<title>📖 Awesome Books</title>
+	</head>
+	<body>
+		<nav>
+			<h3>Awesome Books</h3>
+			<div class="hamburger">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+			<ul class="nav-lists">
+				<li class="nav-item active">List</li>
+				<li class="nav-item">Add new</li>
+				<li class="nav-item">Contact</li>
+			</ul>
+		</nav>
+		<main>
+			<section class="sections display" id="home">
+				<h1>All awesome books</h1>
+				<div class="list-display">
+					<ul class="book-display"></ul>
+				</div>
+			</section>
+			<section class="sections hidden" id="add">
+				<form action="" id="form">
+					<h2>Add a new book</h2>
+					<input
+						id="title"
+						type="text"
+						placeholder="Title"
+						required /><br /><br />
+					<input
+						id="author"
+						type="text"
+						placeholder="Author"
+						required /><br /><br />
+					<button id="submit-button" type="submit">Add</button>
+				</form>
+			</section>
+			<section class="sections hidden" id="contact">
+				<h2>Contact information</h2>
+				<p class="contact-text">
+					Do have any question or you just want to say "Hello"?<span> </span>You
+					can reach out to us!
+				</p>
+				<ul class="contact-lists">
+					<li>Our e-mail: <a href="#">fakemail@email.com</a></li>
+					<li>Our phone number: <a href="#">1-888-225-1000</a></li>
+					<li>Our address: Microverse online school for Web Developers.</li>
+				</ul>
+			</section>
+		</main>
+		<footer>
+			<p>&copy; Copyright Awesome books 2023</p>
+		</footer>
+		<script type="module" src="index.js"></script>
+	</body>
+</html>
