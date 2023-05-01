@@ -8,7 +8,7 @@
 
 # 📗 Table of Contents
 
-- [📖 Awsome Books Prooject](#-awsome-books-project)
+- [📖 Awesome Books ES6](#-awesome-books-es6)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awsome Books Project<a name="about-project"></a>
+# 📖 Awesome Books ES6<a name="about-project"></a>
 
 This project is the first of module two which focuses on the usage of JavaScript classes and constructor methods, it was refactored to use modules in order to made files smaller and easier to maintain code quality.
 
@@ -74,7 +74,7 @@ This project is the first of module two which focuses on the usage of JavaScript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming soon
+[LIVE DEMO LINK](https://lincoln1883.github.io/Awesome-books-ES6/)
 
 <!-- GETTING STARTED -->
 
