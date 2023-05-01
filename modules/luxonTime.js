@@ -15,4 +15,4 @@ const showTime = () => {
   main.insertBefore(timeSlot, section);
 };
 
-export default showTime ;
+export default showTime;
