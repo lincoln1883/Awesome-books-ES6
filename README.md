@@ -99,7 +99,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd awsome-books-project run `git clone https://github.com/lincoln1883/awsome-books-project`
+  cd Awesome-books-ES6 run `git clone https://github.com/lincoln1883/awsome-books-project`
 ```
 
 ### Install
@@ -152,18 +152,13 @@ To test CSS:
 - Twitter: [lincolngibson7](https://twitter.com/lincolngibson7)
 - LinkedIn: [lincoln-gibson](https://linkedin.com/in/lincoln-gibson)
 
-#### 👤 Pablo Ezequiel Gonzales
-
-- GitHub: [@PabloEGonz](https://github.com/PabloEGonz)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add styling
-- Add more javaScript functionality
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,7 +185,6 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Thank you Microverse.
-- Thank you Pedro.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
