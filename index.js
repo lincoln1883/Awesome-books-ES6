@@ -2,7 +2,7 @@ import { handleFormSubmit, addBookToList } from './modules/addBook.js';
 import { handleRemoveButtonClick } from './modules/removeBook.js';
 import { handleNavigation, toggleMenu } from './modules/navigation.js';
 import Book from './modules/book.js';
-import { showTime } from './modules/luxonTime.js';
+import showTime from './modules/luxonTime.js';
 
 const formButton = document.querySelector('#submit-button');
 const bookList = document.querySelector('.book-display');
