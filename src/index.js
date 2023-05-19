@@ -33,13 +33,13 @@ timeSlot.classList.add('localTime');
 // timeSlot.classList.add('localTime');
 
 const showTime = () => {
-	setInterval(() => {
-		const now = DateTime.now();
-		const formattedDateTime = now.toFormat('MMMM dd, yyyy - HH:mm:ss a');
-		timeSlot.textContent = `Local Time: ${formattedDateTime}`;
-	}, 1000);
+  setInterval(() => {
+    const now = DateTime.now();
+    const formattedDateTime = now.toFormat('MMMM dd, yyyy - HH:mm:ss a');
+    timeSlot.textContent = `Local Time: ${formattedDateTime}`;
+  }, 1000);
 
-	main.insertBefore(timeSlot, section);
+  main.insertBefore(timeSlot, section);
 };
 
 showTime(main, timeSlot, section);
